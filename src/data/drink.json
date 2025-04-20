@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "name": "アサヒスーパードライ",
+      "maker": "アサヒビール",
+      "genre": "ビール",
+      "pure_alcohol": 14.3,
+      "net": 350,
+      "calorie": 14.0,
+      "sugar": 1.2,
+      "created_at": "2025-04-19T10:30:00"
+    },
+    {
+      "id": 2,
+      "name": "キリン一番搾り",
+      "maker": "キリンビール",
+      "genre": "ビール",
+      "pure_alcohol": 13.5,
+      "net": 350,
+      "calorie": 13.8,
+      "sugar": 1.1,
+      "created_at": "2025-04-19T10:30:00"
+    },
+    {
+      "id": 3,
+      "name": "サントリー角ハイボール",
+      "maker": "サントリー",
+      "genre": "ハイボール",
+      "pure_alcohol": 15.0,
+      "net": 350,
+      "calorie": 16.5,
+      "sugar": 0.9,
+      "created_at": "2025-04-19T10:30:00"
+    }
+  ]
+  
